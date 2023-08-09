@@ -12,7 +12,6 @@ Colorful blocks drawn on the screen based on the random data.
 Graceful handling of program termination with signal handling.
 
 How to Use
-
 Clone this repository to your local machine:
 git clone <https://github.com/yourusername/circular-buffer-sdl.git>
 cd circular-buffer-sdl
